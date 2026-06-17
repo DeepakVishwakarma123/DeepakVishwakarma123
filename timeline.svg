@@ -1,0 +1,660 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1570" width="900">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&amp;family=Inter:wght@400;500;600&amp;display=swap');
+      text { font-family: 'Inter', system-ui, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', monospace; }
+    </style>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="130%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#00000018"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="1570" fill="#0f0f17" rx="16"/>
+
+  <!-- Header -->
+  <text x="20" y="30" fill="#ffffff" font-size="18" font-weight="600" letter-spacing="-0.5">
+    🚀 Project Timeline
+  </text>
+  <text x="20" y="48" fill="#6366f1" font-size="11" class="mono">
+    DeepakVishwakarma123 · Auto-generated on June 17, 2026
+  </text>
+
+  <!-- Grid lines (month markers) -->
+  <line x1="186" y1="50" x2="186" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="186" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Sep 24</text>
+  <line x1="218" y1="50" x2="218" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="218" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Oct 24</text>
+  <line x1="250" y1="50" x2="250" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="250" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Nov 24</text>
+  <line x1="281" y1="50" x2="281" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="281" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Dec 24</text>
+  <line x1="313" y1="50" x2="313" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="313" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Jan 25</text>
+  <line x1="346" y1="50" x2="346" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="346" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Feb 25</text>
+  <line x1="375" y1="50" x2="375" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="375" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Mar 25</text>
+  <line x1="407" y1="50" x2="407" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="407" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Apr 25</text>
+  <line x1="438" y1="50" x2="438" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="438" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">May 25</text>
+  <line x1="470" y1="50" x2="470" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="470" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Jun 25</text>
+  <line x1="502" y1="50" x2="502" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="502" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Jul 25</text>
+  <line x1="534" y1="50" x2="534" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="534" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Aug 25</text>
+  <line x1="566" y1="50" x2="566" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="566" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Sep 25</text>
+  <line x1="597" y1="50" x2="597" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="597" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Oct 25</text>
+  <line x1="630" y1="50" x2="630" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="630" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Nov 25</text>
+  <line x1="661" y1="50" x2="661" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="661" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Dec 25</text>
+  <line x1="693" y1="50" x2="693" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="693" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Jan 26</text>
+  <line x1="725" y1="50" x2="725" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="725" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Feb 26</text>
+  <line x1="754" y1="50" x2="754" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="754" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Mar 26</text>
+  <line x1="787" y1="50" x2="787" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="787" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Apr 26</text>
+  <line x1="818" y1="50" x2="818" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="818" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">May 26</text>
+  <line x1="850" y1="50" x2="850" y2="1530" stroke="#ffffff0a" stroke-width="1"/>
+  <text x="850" y="45" fill="#ffffff30" font-size="9" text-anchor="middle" class="mono">Jun 26</text>
+  <!-- Repo: Whack-a-Mole -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="62" width="900" height="68" fill="#ffffff04" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="90" fill="#6366f1" font-size="12" font-weight="600" text-anchor="end">Whack-a-Mole</text>
+  <text x="190" y="104" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">CSS · 8 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="96" x2="880" y2="96" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="216" y="91" width="651" height="10" fill="#6366f1" rx="5" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="216" y="91" width="651" height="10" fill="none" stroke="#6366f1" stroke-width="1.5" stroke-dasharray="4 3" rx="5" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="216" cy="96" r="5" fill="#6366f1" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="87" width="36" height="14" fill="#6366f133" rx="7" stroke="#6366f1" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="100" fill="#6366f1" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="216" y="85" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Sep 29, 2024</text>
+
+  
+  <!-- Repo: TrackerProgress -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="134" width="900" height="68" fill="transparent" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="162" fill="#10b981" font-size="12" font-weight="600" text-anchor="end">TrackerProgress</text>
+  <text x="190" y="176" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">HTML · 18 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="168" x2="880" y2="168" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="236" y="161" width="631" height="14" fill="#10b981" rx="7" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="236" y="161" width="631" height="14" fill="none" stroke="#10b981" stroke-width="1.5" stroke-dasharray="4 3" rx="7" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="236" cy="168" r="5" fill="#10b981" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="159" width="36" height="14" fill="#10b98133" rx="7" stroke="#10b981" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="172" fill="#10b981" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="236" y="155" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Oct 19, 2024</text>
+
+  
+  <!-- Repo: DeepakVishwakarma123 -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="206" width="900" height="68" fill="#ffffff04" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="234" fill="#f59e0b" font-size="12" font-weight="600" text-anchor="end">DeepakVishwakarma123</text>
+  <text x="190" y="248" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">JavaScript · 9 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="240" x2="880" y2="240" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="262" y="234.5" width="605" height="11" fill="#f59e0b" rx="5.5" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="262" y="234.5" width="605" height="11" fill="none" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="4 3" rx="5.5" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="262" cy="240" r="5" fill="#f59e0b" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="231" width="36" height="14" fill="#f59e0b33" rx="7" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="244" fill="#f59e0b" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="262" y="228.5" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Nov 12, 2024</text>
+
+  
+  <!-- Repo: counterAssignment-react-js -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="278" width="900" height="68" fill="transparent" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="306" fill="#ef4444" font-size="12" font-weight="600" text-anchor="end">counterAssignment-react-js</text>
+  <text x="190" y="320" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">HTML · 2 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="312" x2="880" y2="312" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="262" y="307.5" width="605" height="9" fill="#ef4444" rx="4.5" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="262" y="307.5" width="605" height="9" fill="none" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="4 3" rx="4.5" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="262" cy="312" r="5" fill="#ef4444" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="303" width="36" height="14" fill="#ef444433" rx="7" stroke="#ef4444" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="316" fill="#ef4444" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="262" y="301.5" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Nov 13, 2024</text>
+
+  
+  <!-- Repo: React-Routrer -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="350" width="900" height="68" fill="#ffffff04" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="378" fill="#8b5cf6" font-size="12" font-weight="600" text-anchor="end">React-Routrer</text>
+  <text x="190" y="392" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">Unknown · 1 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="384" x2="880" y2="384" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="267" y="380" width="600" height="8" fill="#8b5cf6" rx="4" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="267" y="380" width="600" height="8" fill="none" stroke="#8b5cf6" stroke-width="1.5" stroke-dasharray="4 3" rx="4" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="267" cy="384" r="5" fill="#8b5cf6" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="375" width="36" height="14" fill="#8b5cf633" rx="7" stroke="#8b5cf6" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="388" fill="#8b5cf6" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="267" y="374" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Nov 17, 2024</text>
+
+  
+  <!-- Repo: Random-Problem -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="422" width="900" height="68" fill="transparent" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="450" fill="#06b6d4" font-size="12" font-weight="600" text-anchor="end">Random-Problem</text>
+  <text x="190" y="464" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">JavaScript · 7 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="456" x2="880" y2="456" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="633" y="451" width="234" height="10" fill="#06b6d4" rx="5" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="633" y="451" width="234" height="10" fill="none" stroke="#06b6d4" stroke-width="1.5" stroke-dasharray="4 3" rx="5" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="633" cy="456" r="5" fill="#06b6d4" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="447" width="36" height="14" fill="#06b6d433" rx="7" stroke="#06b6d4" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="460" fill="#06b6d4" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="633" y="445" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Nov 4, 2025</text>
+
+  
+  <!-- Repo: RealTime-Portfolio -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="494" width="900" height="68" fill="#ffffff04" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="522" fill="#ec4899" font-size="12" font-weight="600" text-anchor="end">RealTime-Portfolio</text>
+  <text x="190" y="536" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">JavaScript · 54 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="528" x2="880" y2="528" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="647" y="515.5" width="220" height="25" fill="#ec4899" rx="12.5" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="647" y="515.5" width="220" height="25" fill="none" stroke="#ec4899" stroke-width="1.5" stroke-dasharray="4 3" rx="12.5" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="647" cy="528" r="5" fill="#ec4899" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="519" width="36" height="14" fill="#ec489933" rx="7" stroke="#ec4899" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="532" fill="#ec4899" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="647" y="509.5" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Nov 18, 2025</text>
+
+  
+  <!-- Repo: Backend-Dev-Journey -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="566" width="900" height="68" fill="transparent" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="594" fill="#84cc16" font-size="12" font-weight="600" text-anchor="end">Backend-Dev-Journey</text>
+  <text x="190" y="608" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">JavaScript · 11 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="600" x2="880" y2="600" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="686" y="594.5" width="181" height="11" fill="#84cc16" rx="5.5" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="686" y="594.5" width="181" height="11" fill="none" stroke="#84cc16" stroke-width="1.5" stroke-dasharray="4 3" rx="5.5" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="686" cy="600" r="5" fill="#84cc16" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="591" width="36" height="14" fill="#84cc1633" rx="7" stroke="#84cc16" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="604" fill="#84cc16" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="686" y="588.5" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Dec 25, 2025</text>
+
+  
+  <!-- Repo: Building-A-Server-From-Scratch -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="638" width="900" height="68" fill="#ffffff04" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="666" fill="#6366f1" font-size="12" font-weight="600" text-anchor="end">Building-A-Server-From-Scratch</text>
+  <text x="190" y="680" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">Unknown · 1 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="672" x2="880" y2="672" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="689" y="668" width="178" height="8" fill="#6366f1" rx="4" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="689" y="668" width="178" height="8" fill="none" stroke="#6366f1" stroke-width="1.5" stroke-dasharray="4 3" rx="4" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="689" cy="672" r="5" fill="#6366f1" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="663" width="36" height="14" fill="#6366f133" rx="7" stroke="#6366f1" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="676" fill="#6366f1" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="689" y="662" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Dec 28, 2025</text>
+
+  
+  <!-- Repo: BackendCamp -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="710" width="900" height="68" fill="transparent" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="738" fill="#10b981" font-size="12" font-weight="600" text-anchor="end">BackendCamp</text>
+  <text x="190" y="752" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">JavaScript · 64 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="744" x2="880" y2="744" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="694" y="730" width="173" height="28" fill="#10b981" rx="14" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="694" y="730" width="173" height="28" fill="none" stroke="#10b981" stroke-width="1.5" stroke-dasharray="4 3" rx="14" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="694" cy="744" r="5" fill="#10b981" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="735" width="36" height="14" fill="#10b98133" rx="7" stroke="#10b981" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="748" fill="#10b981" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="694" y="724" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Jan 2, 2026</text>
+
+  
+  <!-- Repo: LeetcodeDaily -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="782" width="900" height="68" fill="#ffffff04" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="810" fill="#f59e0b" font-size="12" font-weight="600" text-anchor="end">LeetcodeDaily</text>
+  <text x="190" y="824" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">JavaScript · 8 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="816" x2="880" y2="816" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="754" y="811" width="113" height="10" fill="#f59e0b" rx="5" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="754" y="811" width="113" height="10" fill="none" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="4 3" rx="5" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="754" cy="816" r="5" fill="#f59e0b" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="807" width="36" height="14" fill="#f59e0b33" rx="7" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="820" fill="#f59e0b" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="754" y="805" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Mar 1, 2026</text>
+
+  
+  <!-- Repo: OneUrlPlus -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="854" width="900" height="68" fill="transparent" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="882" fill="#ef4444" font-size="12" font-weight="600" text-anchor="end">OneUrlPlus</text>
+  <text x="190" y="896" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">Unknown · 1 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="888" x2="880" y2="888" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="755" y="884" width="112" height="8" fill="#ef4444" rx="4" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="755" y="884" width="112" height="8" fill="none" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="4 3" rx="4" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="755" cy="888" r="5" fill="#ef4444" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="879" width="36" height="14" fill="#ef444433" rx="7" stroke="#ef4444" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="892" fill="#ef4444" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="755" y="878" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Mar 2, 2026</text>
+
+  
+  <!-- Repo: Fun2Read -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="926" width="900" height="68" fill="#ffffff04" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="954" fill="#8b5cf6" font-size="12" font-weight="600" text-anchor="end">Fun2Read</text>
+  <text x="190" y="968" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">JavaScript · 10 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="960" x2="880" y2="960" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="755" y="954.5" width="112" height="11" fill="#8b5cf6" rx="5.5" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="755" y="954.5" width="112" height="11" fill="none" stroke="#8b5cf6" stroke-width="1.5" stroke-dasharray="4 3" rx="5.5" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="755" cy="960" r="5" fill="#8b5cf6" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="951" width="36" height="14" fill="#8b5cf633" rx="7" stroke="#8b5cf6" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="964" fill="#8b5cf6" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="755" y="948.5" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Mar 2, 2026</text>
+
+  
+  <!-- Repo: camp90 -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="998" width="900" height="68" fill="transparent" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="1026" fill="#06b6d4" font-size="12" font-weight="600" text-anchor="end">camp90</text>
+  <text x="190" y="1040" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">HTML · 65 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="1032" x2="880" y2="1032" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="793" y="1018" width="74" height="28" fill="#06b6d4" rx="14" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="793" y="1018" width="74" height="28" fill="none" stroke="#06b6d4" stroke-width="1.5" stroke-dasharray="4 3" rx="14" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="793" cy="1032" r="5" fill="#06b6d4" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="1023" width="36" height="14" fill="#06b6d433" rx="7" stroke="#06b6d4" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="1036" fill="#06b6d4" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="793" y="1012" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Apr 7, 2026</text>
+
+  
+  <!-- Repo: RandomNumberGen -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="1070" width="900" height="68" fill="#ffffff04" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="1098" fill="#ec4899" font-size="12" font-weight="600" text-anchor="end">RandomNumberGen</text>
+  <text x="190" y="1112" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">JavaScript · 3 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="1104" x2="880" y2="1104" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="851" y="1099.5" width="16" height="9" fill="#ec4899" rx="4.5" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="851" y="1099.5" width="16" height="9" fill="none" stroke="#ec4899" stroke-width="1.5" stroke-dasharray="4 3" rx="4.5" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="851" cy="1104" r="5" fill="#ec4899" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="1095" width="36" height="14" fill="#ec489933" rx="7" stroke="#ec4899" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="1108" fill="#ec4899" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="851" y="1093.5" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Jun 2, 2026</text>
+
+  
+  <!-- Repo: Slack-Agent-Builder-Hackathon -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="1142" width="900" height="68" fill="transparent" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="1170" fill="#84cc16" font-size="12" font-weight="600" text-anchor="end">Slack-Agent-Builder-Hackathon</text>
+  <text x="190" y="1184" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">Unknown · 1 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="1176" x2="880" y2="1176" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="856" y="1172" width="11" height="8" fill="#84cc16" rx="4" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="856" y="1172" width="11" height="8" fill="none" stroke="#84cc16" stroke-width="1.5" stroke-dasharray="4 3" rx="4" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="856" cy="1176" r="5" fill="#84cc16" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="1167" width="36" height="14" fill="#84cc1633" rx="7" stroke="#84cc16" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="1180" fill="#84cc16" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="856" y="1166" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Jun 7, 2026</text>
+
+  
+  <!-- Repo: Abba-Nahi-Maanenge -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="1214" width="900" height="68" fill="#ffffff04" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="1242" fill="#6366f1" font-size="12" font-weight="600" text-anchor="end">Abba-Nahi-Maanenge</text>
+  <text x="190" y="1256" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">JavaScript · 21 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="1248" x2="880" y2="1248" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="856" y="1241" width="11" height="14" fill="#6366f1" rx="7" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="856" y="1241" width="11" height="14" fill="none" stroke="#6366f1" stroke-width="1.5" stroke-dasharray="4 3" rx="7" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="856" cy="1248" r="5" fill="#6366f1" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="1239" width="36" height="14" fill="#6366f133" rx="7" stroke="#6366f1" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="1252" fill="#6366f1" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="856" y="1235" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Jun 7, 2026</text>
+
+  
+  <!-- Repo: Storage-engine-prototype- -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="1286" width="900" height="68" fill="transparent" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="1314" fill="#10b981" font-size="12" font-weight="600" text-anchor="end">Storage-engine-prototype-</text>
+  <text x="190" y="1328" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">Unknown · 1 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="1320" x2="880" y2="1320" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="862" y="1316" width="6" height="8" fill="#10b981" rx="4" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="862" y="1316" width="6" height="8" fill="none" stroke="#10b981" stroke-width="1.5" stroke-dasharray="4 3" rx="4" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="862" cy="1320" r="5" fill="#10b981" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="1311" width="36" height="14" fill="#10b98133" rx="7" stroke="#10b981" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="1324" fill="#10b981" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="862" y="1310" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Jun 12, 2026</text>
+
+  
+  <!-- Repo: Go -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="1358" width="900" height="68" fill="#ffffff04" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="1386" fill="#f59e0b" font-size="12" font-weight="600" text-anchor="end">Go</text>
+  <text x="190" y="1400" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">Go · 7 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="1392" x2="880" y2="1392" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="864" y="1387" width="6" height="10" fill="#f59e0b" rx="5" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="864" y="1387" width="6" height="10" fill="none" stroke="#f59e0b" stroke-width="1.5" stroke-dasharray="4 3" rx="5" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="864" cy="1392" r="5" fill="#f59e0b" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="1383" width="36" height="14" fill="#f59e0b33" rx="7" stroke="#f59e0b" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="1396" fill="#f59e0b" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="864" y="1381" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Jun 14, 2026</text>
+
+  
+  <!-- Repo: Database-Modelling-Essentials -->
+  <!-- Row background on hover zone -->
+  <rect x="0" y="1430" width="900" height="68" fill="transparent" rx="4"/>
+
+  <!-- Repo name (left label) -->
+  <text x="190" y="1458" fill="#ef4444" font-size="12" font-weight="600" text-anchor="end">Database-Modelling-Essentials</text>
+  <text x="190" y="1472" fill="#ffffff40" font-size="9" text-anchor="end" class="mono">Unknown · 1 commits</text>
+
+  <!-- Timeline track (faint line) -->
+  <line x1="200" y1="1464" x2="880" y2="1464" stroke="#ffffff0a" stroke-width="1"/>
+
+  <!-- Main bar (duration from start to tag/today) -->
+  <rect x="864" y="1460" width="6" height="8" fill="#ef4444" rx="4" opacity="0.5" filter="url(#shadow)"/>
+
+  <!-- WIP dashed border -->
+  <rect x="864" y="1460" width="6" height="8" fill="none" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="4 3" rx="4" opacity="0.9"/>
+
+  <!-- Start dot -->
+  <circle cx="864" cy="1464" r="5" fill="#ef4444" stroke="#0f0f17" stroke-width="2"/>
+
+  <!-- End dot / tag badge -->
+  <!-- WIP badge -->
+  <rect x="849" y="1455" width="36" height="14" fill="#ef444433" rx="7" stroke="#ef4444" stroke-width="1" stroke-dasharray="3 2"/>
+  <text x="867" y="1468" fill="#ef4444" font-size="8" class="mono" text-anchor="middle">WIP</text>
+
+  <!-- Start date label -->
+  <text x="864" y="1454" fill="#ffffff50" font-size="8" text-anchor="middle" class="mono">Jun 15, 2026</text>
+
+  
+  <!-- Legend -->
+  <circle cx="210" cy="1545" r="5" fill="#6366f1" stroke="#0f0f17" stroke-width="2"/>
+  <text x="220" y="1549" fill="#ffffff50" font-size="10">Start date</text>
+
+  <circle cx="300" cy="1545" r="7" fill="#10b981" stroke="#0f0f17" stroke-width="2"/>
+  <text x="315" y="1549" fill="#ffffff50" font-size="10">First tag (shipped 🚀)</text>
+
+  <rect x="460" y="1539" width="30" height="10" fill="#ef444455" stroke="#ef4444" stroke-width="1" stroke-dasharray="3 2" rx="5"/>
+  <text x="498" y="1549" fill="#ffffff50" font-size="10">Work In Progress</text>
+
+  <text x="880" y="1549" fill="#ffffff20" font-size="9" class="mono" text-anchor="end">Bar height = commit count</text>
+</svg>
