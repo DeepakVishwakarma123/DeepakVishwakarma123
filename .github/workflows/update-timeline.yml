@@ -1,0 +1,57 @@
+name: 🚀 Auto-Update Project Timeline
+
+on:
+  push:
+    tags:
+      - "v*"          # v1.0.0, v2.1.3 etc — koi bhi tag jo v se shuru ho
+      - "[0-9]*"      # 1.0, 2.0 etc — bina v ke bhi kaam kare
+
+  # Manual trigger — jab chahiye tab bhi chala sako
+  workflow_dispatch:
+
+  # Raat ko bhi refresh kare (optional — WIP repos ki current date update ke liye)
+  schedule:
+    - cron: "0 0 * * 0"  # Har Sunday midnight UTC
+
+jobs:
+  update-timeline:
+    name: Generate & Commit Timeline SVG
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # README aur SVG commit karne ke liye
+
+    steps:
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0    # Saare commits chahiye (history ke liye)
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 🔍 Generate Timeline
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          README_PATH: "./README.md"
+        run: node scripts/generate-timeline.js
+
+      - name: 💾 Commit & Push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Timeline Bot 🤖"
+
+          git add README.md timeline.svg
+
+          # Agar koi change nahi hua toh commit mat karo (prevent loops)
+          if git diff --staged --quiet; then
+            echo "⏭️  No changes to commit"
+          else
+            TRIGGER="${{ github.ref_name }}"
+            git commit -m "📅 Update timeline [${TRIGGER}] [skip ci]"
+            git push
+            echo "✅ Timeline committed and pushed!"
+          fi
