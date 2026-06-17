@@ -1,4 +1,4 @@
-## 📅 Project Timeline
+
 
 <!-- TIMELINE_START -->
 
