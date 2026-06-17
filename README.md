@@ -1,7 +1,3 @@
-# 🧑‍💻 Deepak's Projects
-
-Auto-updating project timeline — har naya tag push karo aur yeh khud update ho jaata hai!
-
 ## 📅 Project Timeline
 
 <!-- TIMELINE_START -->
@@ -12,12 +8,7 @@ Auto-updating project timeline — har naya tag push karo aur yeh khud update ho
 
 ---
 
-## 🛠️ Setup Guide (5 min)
 
-### Step 1 — Yeh files apne profile repo mein daalo
-
-GitHub pe ek repo banao jiska naam exactly **tumhara username** ho.
-Example: agar username `deepak-dev` hai toh repo ka naam `deepak-dev` hona chahiye.
 
 ```
 your-username/          ← ye tera profile repo hai
@@ -30,20 +21,7 @@ your-username/          ← ye tera profile repo hai
 └── README.md            ← yahi file
 ```
 
-### Step 2 — Permissions check karo
 
-Repo Settings → Actions → General → Workflow permissions:
-✅ **"Read and write permissions"** select karo
-
-### Step 3 — Pehli baar manually trigger karo
-
-Actions tab → "Auto-Update Project Timeline" → "Run workflow"
-
-### Step 4 — Aage se automatic!
-
-Ab jab bhi kisi bhi repo mein tag push karo:
-
-```bash
 git tag v1.0.0
 git push origin v1.0.0
 ```
