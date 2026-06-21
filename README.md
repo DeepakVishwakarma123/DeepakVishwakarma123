@@ -1,7 +1,9 @@
 
 
 <!-- TIMELINE_START -->
-Gbalamɔ Loomɔ lɛ
+
+![Project Timeline](./timeline.svg)
+
 <!-- TIMELINE_END -->
 
 
