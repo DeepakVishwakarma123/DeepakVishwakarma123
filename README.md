@@ -1,10 +1,1 @@
-Coder Never Quit
 
-
-## 📅 Project Timeline
-
-<!-- TIMELINE_START -->
-
-![Project Timeline](./timeline.svg)
-
-<!-- TIMELINE_END -->
