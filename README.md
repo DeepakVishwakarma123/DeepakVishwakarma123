@@ -1,5 +1,5 @@
 # 💫 About Me:
-Learning Software Core and Things Breaking 
+cooking!!!!!!
 
 
 ## 🌐 Socials:
