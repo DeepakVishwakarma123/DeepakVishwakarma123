@@ -22,10 +22,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 📅 Project Timeline
-
-<!-- TIMELINE_START -->
-
-![Project Timeline](./timeline.svg)
-
-<!-- TIMELINE_END -->
