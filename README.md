@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Deepakvishwakarma123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <a href="https://daily.dev/cholexmax"><img src="https://api.daily.dev/devcards/v2/khEBosXNImqe4izloUnb2.png?type=wide&r=h20" width="652" alt="CholexMax's Dev Card"/></a>
-
+-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
