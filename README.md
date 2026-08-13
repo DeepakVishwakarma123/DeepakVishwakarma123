@@ -24,7 +24,7 @@
 
 
 
-## 📅 Project Timeline
+## 📅 Project Timelines
 
 <!-- TIMELINE_START -->
 
